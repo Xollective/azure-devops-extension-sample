@@ -25,7 +25,6 @@
         "esModuleInterop": true
     },
     "exclude": [
-        "**/*", // exclude all files
         "!src/**/*" // but include files under src
     ]
 }
