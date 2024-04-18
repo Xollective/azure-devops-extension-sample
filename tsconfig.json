@@ -22,6 +22,10 @@
             "jest",
             "node"
         ],
+        "exclude": [
+            "**/*", // exclude all files
+            "!src/**/*" // but include files under src
+        ],
         "esModuleInterop": true
     }
 }
