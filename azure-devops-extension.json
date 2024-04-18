@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
-    "id": "samples",
-    "publisher": "ms-samples",
+    "id": "ref12-adoex-sample",
+    "publisher": "Ref12",
     "version": "1.0.396",
     "name": "Extension Sample",
     "description": "Azure DevOps extension sample",
