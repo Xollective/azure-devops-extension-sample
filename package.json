@@ -72,12 +72,7 @@
       "json",
       "html",
       "cobertura"
-    ],
-    "globals": {
-      "ts-jest": {
-        "tsconfig": "tsconfig.test.json"
-      }
-    }
+    ]
   },
   "overrides": {
     "tfx-cli": {
