@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "ref12-adoex-sample",
     "publisher": "Ref12",
-    "version": "1.0.396",
+    "version": "1.0.397",
     "name": "Extension Sample",
     "description": "Azure DevOps extension sample",
     "categories": [
